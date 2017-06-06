@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="oms-comment:war">
+    <output-path>$PROJECT_DIR$/oms-comment/target</output-path>
+    <root id="archive" name="oms-comment.war">
+      <element id="artifact" artifact-name="oms-comment:war exploded" />
+    </root>
+  </artifact>
+</component>

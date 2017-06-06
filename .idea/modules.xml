@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OMS.iml" filepath="$PROJECT_DIR$/OMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oms-comment/oms-comment.iml" filepath="$PROJECT_DIR$/oms-comment/oms-comment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oms-comment-api/oms-comment-api.iml" filepath="$PROJECT_DIR$/oms-comment-api/oms-comment-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oms-core/oms-core.iml" filepath="$PROJECT_DIR$/oms-core/oms-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oms-core-api/oms-core-api.iml" filepath="$PROJECT_DIR$/oms-core-api/oms-core-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oms-customer/oms-customer.iml" filepath="$PROJECT_DIR$/oms-customer/oms-customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oms-customer-api/oms-customer-api.iml" filepath="$PROJECT_DIR$/oms-customer-api/oms-customer-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oms-finance/oms-finance.iml" filepath="$PROJECT_DIR$/oms-finance/oms-finance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oms-finance-api/oms-finance-api.iml" filepath="$PROJECT_DIR$/oms-finance-api/oms-finance-api.iml" />
+    </modules>
+  </component>
+</project>
